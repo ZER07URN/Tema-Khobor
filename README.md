@@ -18,7 +18,7 @@ Themes for OpenSID
 
 5. jangan ngerubah copyright ya...
 
-6. Demo >>https://sukoharjo2.desa.id
+6. Demo >>https://sukoharjo2.desa.id/sidsukoharjo2
 
 //////////////////////////////////////////
 
