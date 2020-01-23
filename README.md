@@ -19,6 +19,7 @@ Themes for OpenSID
 5. jangan ngerubah copyright ya...
 
 //////////////////////////////////////////
+
 widget keuangan dan apdes kayaknya masih bug,, belum dicobain.
 struktur folder tema masih nyontek tema cosmos by Diki Siswanto, hehe
 
