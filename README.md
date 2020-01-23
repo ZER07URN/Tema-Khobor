@@ -18,6 +18,8 @@ Themes for OpenSID
 
 5. jangan ngerubah copyright ya...
 
+6. Demo >>https://sukoharjo2.desa.id
+
 //////////////////////////////////////////
 
 widget keuangan dan apdes kayaknya masih bug,, belum dicobain.
